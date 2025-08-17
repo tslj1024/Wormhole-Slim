@@ -1,4 +1,4 @@
-# Wormhole-Slim-TCP
+# Wormhole-Slim
 
 ![Static Badge](https://img.shields.io/badge/license-GPLv3.0-blue)
 
