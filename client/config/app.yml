@@ -1,0 +1,10 @@
+client:
+  host: localhost
+  port: 8081
+  clientId: CLIENTID1
+  pingMaxCnt: 3
+  pingInterval: 3s
+  reconWaitTime: 5s
+  bufSize: 1024
+  packSize: 1440 # UDP packet size(including header)
+  holeInterval: 30s

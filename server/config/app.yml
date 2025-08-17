@@ -1,0 +1,11 @@
+server:
+  port: 8081
+  # This list is used to define the mapping of each public server port to the private service.
+  clients:
+    - clientId: CLIENTID1
+      port: 8083
+      tHost: 127.0.0.1
+      tPort: 80
+      protocol: tcp/udp
+  timeout: 15s
+  bufSize: 1024
